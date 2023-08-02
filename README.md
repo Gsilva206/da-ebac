@@ -1,6 +1,6 @@
 
-Reposiório destinado ao exercício do módulo 19 do *curso* **Analista de Dados** da **EBAC**. 
-O objetivo deste repositório é práticar o uso do Git e também do Github no versionamento de cógio. 
+Reposiório destinado ao exercício do módulo 19 do *curso* **Analista de Dados** da **EBAC**.
+O objetivo deste repositório é práticar o uso do Git e também do Github no versionamento de cógio.
 Para isso, a ativiade constou nas seguintes etapas:
 
 1.  Criação do repositório `Gsilva206/da-ebac` no **Github**;
